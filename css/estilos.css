@@ -1,0 +1,213 @@
+header {
+	padding: 15px;
+	border: 1px;
+	background-image: url(../css/fondo.jpg);; 
+	background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  height: auto;
+  color: #000;
+}
+body {
+	background: #FFF;
+}
+div p {
+	display: inline-block;
+	width: 800px;
+	height: 20px;
+	margin: 5px;
+	border: 10px;
+	padding: 20px;
+}
+
+h3	{
+	font-size: 50px;
+}
+ div > p {
+	font-size: 20px;
+	width: 600px;
+	height: auto;
+	border: 2px solid;
+	background: #fffaaa;
+	padding: 10px;
+}
+.caja {
+	position: relative;
+	left: 50px ;
+}
+
+.img1{
+	position: relative;
+	left: 400px;
+	bottom: 170px;
+	width: 60%;
+}
+h2 {
+	position: relative;
+	left: 150px;
+	bottom: 200px;
+	font-size: 50px;
+}
+
+.caja2 > p{
+	position: relative;
+	left: 60px;
+	bottom: 140px;
+	background: #A9FFDA;
+}
+
+ul > li{
+	font-size:30px;
+	position: relative;
+	left: 50px;
+	bottom: 140px;
+}
+.caja3 > p{
+	position: relative;
+	left: 50px;
+	bottom: 300px;
+	background: #E3FFA9;
+}
+
+.pa1{
+	position: relative;
+	top: 60px;
+	background: #353535;
+}
+
+.img5{
+	position: relative;
+	left: 10px;
+	bottom: 140px;
+	width: 70%;
+}
+.caja4 > p{
+	position: relative;
+	left: 50px;
+	bottom: 200px;
+	background: #C7B3FF;
+}
+.pa2{
+	position: relative;
+	top:20px ;
+	background: #353535;
+}
+.img2{
+	position: relative;
+	left: 60px;
+	bottom: 80px;
+	width: 60%;
+}
+.caja5 > p{
+	position: relative;
+	left: 50px;
+	bottom: 400px;
+	background: #FFB3BF;
+}
+.pa3{
+	position: relative;
+	top:40px ;
+	background: #353535;
+}
+.img3{
+	position: relative;
+	left: 50px;
+	bottom: 140px;
+	width: 60%;
+}
+
+.imgA{
+	position: relative;
+	left: 800px;
+	bottom: 500px;
+}
+.imgA2{
+	position: relative;
+	left: 1000px;
+	bottom: 500px;
+}
+
+.caja7 > p{
+	position: relative;
+	left: 50px;
+	bottom: 400px;
+	background: #FFB3BF;
+}
+.pa5{
+	position: relative;
+	bottom:60px ;
+	background: #353535;
+}
+
+.inm1{
+	position: relative;
+	bottom: 250px;
+	left: 30px;
+}
+.in1{
+	position:relative ;
+	left: 300px;
+	bottom: 100px;
+}
+.tutube{
+	position: relative;
+	left: 20px;
+	bottom: 240px;
+}
+.tutube{
+	position: relative;
+	left: 20px;
+	list-style: none;
+}
+.tutube {
+	font-size: 30px;
+}
+
+.tutube ul > li {
+	position: relative;
+	left: 10px;
+	bottom: 260px;
+}
+
+a {
+	text-decoration: none;
+	list-style: none;
+}
+
+a:hover{
+	transition: .3s;
+	color: #000;
+}
+.in2{
+	position: relative;
+	bottom: 200px;
+	font-size: 30px;
+	left: 10px;
+}
+.inm2 {
+	position: relative;
+	left: 10px;
+	bottom: 200px;
+	width: 80%;
+}
+.in2{
+	position: relative;
+	left: 10px;
+}
+.tutube2{
+	position: relative;
+	left: 20px;
+	bottom: 200px;
+	font-size: 30px;
+}
+.tutube2 ul > li{
+	position: relative;
+	left: 10px;
+	bottom: 200px;
+}
+marquee{
+	height: 150px;
+	position: relative;
+	width: 1400px;
+	bottom: 300px;
+}
